@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+    <sequence>
+        <uuid>0446367f-e698-4e1b-a4b1-816e9d3554ea</uuid>
+        <rate>
+            <timebase>30</timebase>
+            <ntsc>TRUE</ntsc>
+        </rate>
+        <name>1</name>
+        <media>
+            <video>
+                <format>
+                    <samplecharacteristics>
+                        <rate>
+                            <timebase>30</timebase>
+                            <ntsc>TRUE</ntsc>
+                        </rate>
+                        <width>1920</width>
+                        <height>1080</height>
+                    </samplecharacteristics>
+
+                </format>
+                
+                <track>
+                    
+                    <clipitem id="clipitem-0">
+                        <masterclipid>masterclip-0</masterclipid>
+                        <name>20180707_091948.mp4</name>
+                        <duration>819</duration>
+                        <rate>
+                            <!-- 30 -->
+                            <timebase>30</timebase>
+                            <ntsc>TRUE</ntsc>
+                        </rate>
+                        <start>0</start>
+                        <end>819</end>
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-0</linkclipref>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio1-0</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio2-0</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <file id="file-0">
+                            <name>20180707_091948.mp4</name>
+                            <pathurl>file://localhost/Users/ironpark/CLionProjects/hipsort/timeline/20180707_091948.mp4</pathurl>
+                            <media>
+                                <video>
+                                    <samplecharacteristics>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                    </samplecharacteristics>
+                                </video>
+                            </media>
+                        </file>
+                    </clipitem>
+                    
+                    <enabled>TRUE</enabled>
+                    <locked>FALSE</locked>
+                </track>
+                
+                <track>
+                    
+                    <clipitem id="clipitem-1">
+                        <masterclipid>masterclip-1</masterclipid>
+                        <name>20180707_091954.mp4</name>
+                        <duration>748</duration>
+                        <rate>
+                            <!-- 30 -->
+                            <timebase>30</timebase>
+                            <ntsc>TRUE</ntsc>
+                        </rate>
+                        <start>79</start>
+                        <end>827</end>
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-1</linkclipref>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio1-1</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio2-1</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <file id="file-1">
+                            <name>20180707_091954.mp4</name>
+                            <pathurl>file://localhost/Users/ironpark/CLionProjects/hipsort/timeline/20180707_091954.mp4</pathurl>
+                            <media>
+                                <video>
+                                    <samplecharacteristics>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                    </samplecharacteristics>
+                                </video>
+                            </media>
+                        </file>
+                    </clipitem>
+                    
+                    <enabled>TRUE</enabled>
+                    <locked>FALSE</locked>
+                </track>
+                
+                <track>
+                    
+                    <clipitem id="clipitem-2">
+                        <masterclipid>masterclip-2</masterclipid>
+                        <name>20180707_092005.mp4</name>
+                        <duration>321</duration>
+                        <rate>
+                            <!-- 30 -->
+                            <timebase>30</timebase>
+                            <ntsc>TRUE</ntsc>
+                        </rate>
+                        <start>513</start>
+                        <end>834</end>
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-2</linkclipref>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio1-2</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <!--<link>-->
+                            <!--<linkclipref>clipitem-audio2-2</linkclipref>-->
+                            <!--<groupindex>1</groupindex>-->
+                        <!--</link>-->
+                        <pixelaspectratio>square</pixelaspectratio>
+                        <file id="file-2">
+                            <name>20180707_092005.mp4</name>
+                            <pathurl>file://localhost/Users/ironpark/CLionProjects/hipsort/timeline/20180707_092005.mp4</pathurl>
+                            <media>
+                                <video>
+                                    <samplecharacteristics>
+                                        <width>1920</width>
+                                        <height>1080</height>
+                                    </samplecharacteristics>
+                                </video>
+                            </media>
+                        </file>
+                    </clipitem>
+                    
+                    <enabled>TRUE</enabled>
+                    <locked>FALSE</locked>
+                </track>
+                
+            </video>
+            <!--<audio>-->
+                <!--<numOutputChannels>2</numOutputChannels>-->
+                <!--<format>-->
+                    <!--<samplecharacteristics>-->
+                        <!--<depth>16</depth>-->
+                        <!--<samplerate>48000</samplerate>-->
+                    <!--</samplecharacteristics>-->
+                <!--</format>-->
+                <!---->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio1-0">-->
+                        <!--<name>20180707_091948.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>819</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>0</start>-->
+                        <!--<end>819</end>-->
+                        <!--<file id="file-0"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>1</outputchannelindex>-->
+                <!--</track>-->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio2-0">-->
+                        <!--<name>20180707_091948.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>819</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>0</start>-->
+                        <!--<end>819</end>-->
+                        <!--<file id="file-0"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>2</outputchannelindex>-->
+                <!--</track>-->
+                <!---->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio1-1">-->
+                        <!--<name>20180707_091954.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>748</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>79</start>-->
+                        <!--<end>827</end>-->
+                        <!--<file id="file-1"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>1</outputchannelindex>-->
+                <!--</track>-->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio2-1">-->
+                        <!--<name>20180707_091954.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>748</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>79</start>-->
+                        <!--<end>827</end>-->
+                        <!--<file id="file-1"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>2</outputchannelindex>-->
+                <!--</track>-->
+                <!---->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio1-2">-->
+                        <!--<name>20180707_092005.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>321</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>513</start>-->
+                        <!--<end>834</end>-->
+                        <!--<file id="file-2"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>1</outputchannelindex>-->
+                <!--</track>-->
+                <!--<track>-->
+                    <!---->
+                    <!--<clipitem id="clipitem-audio2-2">-->
+                        <!--<name>20180707_092005.mp4</name>-->
+                        <!--<enabled>TRUE</enabled>-->
+                        <!--<duration>321</duration>-->
+                        <!--<rate>-->
+                            <!--<timebase>30</timebase>-->
+                            <!--<ntsc>TRUE</ntsc>-->
+                        <!--</rate>-->
+                        <!--<start>513</start>-->
+                        <!--<end>834</end>-->
+                        <!--<file id="file-2"/>-->
+                        <!--<sourcetrack>-->
+                            <!--<mediatype>audio</mediatype>-->
+                            <!--<trackindex>1</trackindex>-->
+                        <!--</sourcetrack>-->
+                    <!--</clipitem>-->
+                    <!---->
+                    <!--<outputchannelindex>2</outputchannelindex>-->
+                <!--</track>-->
+                <!---->
+            <!--</audio>-->
+
+        </media>
+    </sequence>
+</xmeml>
