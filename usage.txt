@@ -1,0 +1,5 @@
+Build, Execution, Deployment - Toolhanins - C++ compiler - /usr/local/Cellar/gcc/8.2.0/bin/g++-8
+
+1  brew install opencv
+2  brew install zbar
+3  brew install gcc
